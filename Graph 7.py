@@ -22,3 +22,6 @@ plt.title("Graph of X^2 and 1000*X")
 plt.plot([1, 2, 3, 4 , 5 , 6 , 7, 8, 9, 10] , [1, 4, 9, 16, 25, 36, 49, 64, 81, 100])
 plt.plot([1, 2, 3, 4 , 5 , 6 , 7, 8, 9, 10] , [1000, 2000, 3000, 4000, 5000, 6000, 7000, 8000, 9000, 10000])
 plt.show()
+
+print("Blue line shows X^2")
+print("orange line shows 1000*X")
